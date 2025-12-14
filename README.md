@@ -45,7 +45,7 @@ Urban municipalities often face challenges such as overflowing garbage bins, ine
 - Smart City & IoT Domain Understanding
 
 ## 🎓 Academic Context
-This BRD was prepared as part of an MBA (Business Analytics) academic project and follows industry-standard business analysis practices.
+This BRD was prepared as part follows industry-standard business analysis practices.
 
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/venupalakuri-3aba66333
